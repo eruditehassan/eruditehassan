@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan Raza Bukhari</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+[![](./HassanBukhari.jpg)](https://github.com/eruditehassan)
 
 - 🔭 I’m currently working on **Data Analysis and Machine Learning**
 
